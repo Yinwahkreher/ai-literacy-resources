@@ -1,6 +1,6 @@
 # EDUCAUSE AI Literacy Framework
 
-The **EDUCAUSE Framework for AI Literacy** (2024) provides guidance for higher education institutions on how to cultivate AI literacy among students, faculty, and staff.
+The **EDUCAUSE Framework for AI Literacy** (2024) provides guidance for higher education institutions on how to cultivate generative AI literacy among students, faculty, and staff.
 
 ## Core Components
 - **Understanding AI** – Foundational concepts, terminology, and functionality.
