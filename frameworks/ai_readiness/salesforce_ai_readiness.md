@@ -45,5 +45,4 @@ Salesforce frames AI readiness through the lens of **data quality, ethics, trust
 
 - [Microsoft AI Readiness Assessment](microsoft_ai_readiness.md)  
 - [Cisco AI Readiness Index](cisco_ai_readiness.md)  
-- [Deloitte AI Maturity Curve](deloitte_ai_maturity.md)  
 - [Gartner AI Adoption Phases](gartner_ai_adoption_phases.md)
