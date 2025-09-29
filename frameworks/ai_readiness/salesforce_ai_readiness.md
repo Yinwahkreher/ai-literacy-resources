@@ -1,7 +1,7 @@
 # Salesforce AI Readiness Check
 
 **Source:** Salesforce – AI Readiness Check (2023–2024)  
-**URL:** https://www.salesforce.com/resources/guides/ai-readiness-check/  
+**URL:** [https://www.salesforce.com/resources/guides/ai-readiness-check/](https://www.ai-readiness-assessment.com/)  
 
 ---
 
