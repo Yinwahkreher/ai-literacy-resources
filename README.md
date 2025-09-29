@@ -47,7 +47,7 @@ The goal of this repository is to:
 ## 📖 Sources & Credits  
 
 - Anthropic AI Fluency (2024)  
-- Gartner AI Adoption Phases (2023)  
+- Gartner AI Adoption Phases (2024)  
 - NIST AI RMF 1.0 (2023)  
 - EU AI Act (2024)  
 - EDUCAUSE AI Literacy Framework (2024)  
