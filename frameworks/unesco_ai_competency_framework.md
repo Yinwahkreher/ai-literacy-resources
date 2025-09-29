@@ -13,7 +13,7 @@ UNESCO has proposed a global **AI competency framework** to support digital lite
 - Support the development of **AI-enabled teaching practices**.
 - Aligns with UNESCO’s mission for digital inclusion and sustainable development.
 
-## Source
+## Sources
 - [UNESCO AI in Education Resources](https://unesdoc.unesco.org/)
 - https://www.unesco.org/en/digital-education/artificial-intelligence
 - https://doi.org/10.54675/PCSP7350
