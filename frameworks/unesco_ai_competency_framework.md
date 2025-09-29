@@ -15,5 +15,9 @@ UNESCO has proposed a global **AI competency framework** to support digital lite
 
 ## Source
 - [UNESCO AI in Education Resources](https://unesdoc.unesco.org/)
-> https://doi.org/10.54675/PCSP7350
+- https://www.unesco.org/en/digital-education/artificial-intelligence
+- https://doi.org/10.54675/PCSP7350
+- https://www.unesco.org/en/articles/ai-competency-framework-students
+- https://www.unesco.org/en/articles/ai-competency-framework-teachers
+- https://www.unesco.org/en/articles/what-you-need-know-about-unescos-new-ai-competency-frameworks-students-and-teachers?hub=32618
 
