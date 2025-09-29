@@ -1,38 +1,60 @@
+# AI Literacy Resources  
+
+This repository is a collection of **frameworks, readiness tools, and literacy resources** to help researchers, educators, and organizations engage responsibly with artificial intelligence.  
 
 ---
 
-## 🚀 Getting Started
+## 📂 Repository Structure  
 
-You can open and run any notebook directly in **Google Colab**.  
+### 1. Frameworks  
+Key models and conceptual frameworks shaping AI literacy, maturity, and governance.  
 
-Example:  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](notebooks/01_ml_text_classification.ipynb)  
-
-1. Click the badge above (or the link in the notebooks folder).  
-2. Run the cells to explore demos.  
-3. Read the `guides/` folder for responsible AI practices.  
-
----
-
-## 📖 Frameworks Included
-
-- **Anthropic AI Fluency (4D)** – Delegation, Description, Discernment, Diligence  
-- **NIST AI Risk Management Framework** – Trustworthy and responsible AI use  
-- **EU AI Act (basics)** – Regulatory overview and implications for research/education  
-- More coming soon!  
+- **[Anthropic 4D AI Fluency Framework](frameworks/anthropic_4d_fluency_framework.md)**  
+- **[AI Assessment Scale (Furze, Perkins, Roe, MacVaugh)](frameworks/ai_assessment_scale.md)**  
+- **[Gartner AI Maturity Model](frameworks/ai_readiness/gartner_ai_maturity_model.md)**  
+- **[NIST AI Risk Management Framework](frameworks/nist_ai_risk_management_framework.md)**  
+- **[EU AI Act (Basics)](frameworks/eu_ai_act_basics.md)**  
+- **[EDUCAUSE AI Literacy Framework](frameworks/educause_ai_literacy_framework.md)**  
+- **[UNESCO AI Competency Framework for Students & Teachers](frameworks/unesco_ai_competency_framework.md)**  
 
 ---
 
-## ✨ Purpose
+### 2. AI Readiness Assessments  
+Diagnostic tools and indexes that help organizations evaluate their readiness for AI adoption.  
 
-AI adoption is accelerating, but **literacy and ethics must come first**.  
-This repo is built for:  
-- Educators and trainers designing AI workshops.  
-- Researchers integrating AI into scholarly workflows.  
-- Learners seeking approachable, hands-on AI examples.  
+- **[Microsoft AI Readiness Assessment](frameworks/ai_readiness/microsoft_ai_readiness.md)**  
+- **[Cisco AI Readiness Index](frameworks/ai_readiness/cisco_ai_readiness.md)**  
+- **[Salesforce AI Readiness Index](frameworks/ai_readiness/salesforce_ai_readiness.md)**  
+- **[Deloitte AI Maturity Curve (stub)](frameworks/ai_readiness/deloitte_ai_maturity_stub.md)** (note: client-only, limited public detail)  
+- **[Gartner AI Maturity Model](frameworks/ai_readiness/gartner_ai_maturity_model.md)**  
 
 ---
 
-## 📜 License
+### 3. Notes & Resources  
+Additional guides, tutorials, and notebooks to support **AI literacy education** (to be added in later updates).  
 
-MIT License – free to use, adapt, and share with attribution.  
+---
+
+## 🌍 Purpose  
+
+The goal of this repository is to:  
+
+- Provide **clean, well-documented summaries** of major AI literacy and maturity frameworks.  
+- Create a central hub for **responsible, ethical, and practical integration** of AI in research, education, and organizational strategy.  
+- Support students, educators, and organizations in navigating the evolving AI landscape.  
+
+---
+
+## 📖 Sources & Credits  
+
+- Anthropic AI Fluency (2024)  
+- Gartner AI Adoption Phases & Maturity Model (2023)  
+- NIST AI RMF 1.0 (2023)  
+- EU AI Act (2024)  
+- EDUCAUSE AI Literacy Framework (2024)  
+- UNESCO AI Competency Framework  
+- Microsoft, Cisco, Salesforce, Deloitte AI Readiness Assessments  
+
+---
+
+✍️ Maintained by [Yin Kreher](https://github.com/)  
