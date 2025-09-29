@@ -25,8 +25,7 @@ Diagnostic tools and indexes that help organizations evaluate their readiness fo
 - **[Microsoft AI Readiness Assessment](frameworks/ai_readiness/microsoft_ai_readiness.md)**  
 - **[Cisco AI Readiness Index](frameworks/ai_readiness/cisco_ai_readiness.md)**  
 - **[Salesforce AI Readiness Index](frameworks/ai_readiness/salesforce_ai_readiness.md)**  
-- **[Deloitte AI Maturity Curve (stub)](frameworks/ai_readiness/deloitte_ai_maturity_stub.md)** (note: client-only, limited public detail)  
-- **[Gartner AI Maturity Model](frameworks/ai_readiness/gartner_ai_maturity_model.md)**  
+- **[Gartner AI Maturity Model](frameworks/ai_readiness/gartner_ai_adoption_phases.md)**  
 
 ---
 
