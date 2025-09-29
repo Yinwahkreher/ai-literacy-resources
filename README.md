@@ -11,7 +11,6 @@ Key models and conceptual frameworks shaping AI literacy, maturity, and governan
 
 - **[Anthropic 4D AI Fluency Framework](frameworks/anthropic_4d_fluency_framework.md)**  
 - **[AI Assessment Scale (Furze, Perkins, Roe, MacVaugh)](frameworks/ai_assessment_scale.md)**  
-- **[Gartner AI Maturity Model](frameworks/ai_readiness/gartner_ai_maturity_model.md)**  
 - **[NIST AI Risk Management Framework](frameworks/nist_ai_risk_management_framework.md)**  
 - **[EU AI Act (Basics)](frameworks/eu_ai_act_basics.md)**  
 - **[EDUCAUSE AI Literacy Framework](frameworks/educause_ai_literacy_framework.md)**  
@@ -52,7 +51,7 @@ The goal of this repository is to:
 - EU AI Act (2024)  
 - EDUCAUSE AI Literacy Framework (2024)  
 - UNESCO AI Competency Framework  
-- Microsoft, Cisco, Salesforce, Deloitte AI Readiness Assessments  
+- Microsoft, Cisco, Salesforce AI Readiness Assessments  
 
 ---
 
