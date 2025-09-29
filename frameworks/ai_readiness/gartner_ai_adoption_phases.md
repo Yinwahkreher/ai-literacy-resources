@@ -1,6 +1,6 @@
-# Gartner Artificial Intelligence Maturity Model  
+# Gartner Artificial Intelligence Adoption Phases
 
-Gartner’s **Artificial Intelligence Maturity Model** provides a phased roadmap for organizations adopting AI. It identifies five stages of maturity and highlights the importance of use cases, governance, budget, and organizational frameworks in progressing toward AI-enabled transformation.  
+Gartner’s **Artificial Intelligence Adoption Phases** provides a phased roadmap for organizations adopting AI. It identifies five stages of maturity and highlights the importance of use cases, governance, budget, and organizational frameworks in progressing toward AI-enabled transformation.  
 
 ---
 
